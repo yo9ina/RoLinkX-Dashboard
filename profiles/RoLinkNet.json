@@ -1,0 +1,13 @@
+{
+    "reflector": "reflector.rolink-net.ro",
+    "port": "5300",
+    "callsign": "YO9INA-M",
+    "key": "qawsed",
+    "beacon": "M7ROL",
+    "bitrate": "20000",
+    "type": "nod portabil",
+    "shortIdent": "10",
+    "longIdent": "60",
+    "rogerBeep": "0",
+    "connectionStatus": "60"
+}

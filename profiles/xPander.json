@@ -1,0 +1,13 @@
+{
+    "reflector": "svx.439100.ro",
+    "port": "5301",
+    "callsign": "YO9INA-P",
+    "key": "Z8o0@H@P",
+    "beacon": "M7ROL",
+    "bitrate": "20000",
+    "type": "nod portabil",
+    "shortIdent": "10",
+    "longIdent": "60",
+    "rogerBeep": "0",
+    "connectionStatus": "60"
+}
